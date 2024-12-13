@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Define the folder to organize
-source_folder = "D:/"
+source_folder = "Your/folder"
 
 # Define file categories and their extensions
 categories = {
